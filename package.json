@@ -1,0 +1,9 @@
+{
+  "dependencies": {},
+  "scripts": {
+    "build": ""
+  },
+  "devDependencies": {
+    "@types/bun": "^1.3.8"
+  }
+}
